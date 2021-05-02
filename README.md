@@ -1,3 +1,8 @@
+---
+gh-repo: fatlan/Zen-LoadBalancer
+gh-badge: [star, follow]
+---
+
 # ![](zen-dash.png)
 ------
 
