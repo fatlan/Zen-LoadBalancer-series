@@ -1,10 +1,6 @@
 # ![](zen-dash.png)
 ------
 
----
-gh-repo: fatlan/Zen-LoadBalancer
-gh-badge: [star, follow]
----
 
 ## - Adım Adım Zen Load Balancer -
 
